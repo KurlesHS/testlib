@@ -1,5 +1,5 @@
 package testlib
 
 func HelloWorld() string {
-	return "Hello World 1"
+	return "Hello World 2"
 }
